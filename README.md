@@ -25,7 +25,7 @@ austineirungu.vercel.app
 1. Clone the repo: https://github.com/austin100-v/my-portfolio.git
 2. Open `index.html` in your browser
 
-## 📬 Contact
+## Contact
 
 - Email: mwema.irungu@gmail.com
 - LinkedIn: [Austine Irungu](https://linkedin.com/in/austin-irungu-00a391277)
