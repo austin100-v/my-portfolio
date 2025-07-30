@@ -17,6 +17,9 @@ Built with HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript
 
+## Link to the Webpage
+austineirungu.vercel.app
+
 ## How to Run Locally
 
 1. Clone the repo: https://github.com/austin100-v/my-portfolio.git
