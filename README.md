@@ -18,7 +18,7 @@ Built with HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Link to the Webpage
-austineirungu.vercel.app
+[Click Here](austineirungu.vercel.app)
 
 ## How to Run Locally
 
